@@ -41,7 +41,6 @@ Model performances comparison with baseline [VisualBERT](https://github.com/ucla
 Type|Model|Accuracy|AUROC 
 -------------|--------|--------|--------
 Baseline |VisualBERT CC ID=_60_ |70.93|75.21
-Baseline |VisualBERT CC _ensemble_ |74.23|79.26
 Our |VisualBERT CC  |**70.60**|**78.99**
 
 
